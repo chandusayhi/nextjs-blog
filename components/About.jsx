@@ -20,7 +20,7 @@ const About = () => {
           Committed to nurturing the intellectual growth and professional development 
           of students while contributing to the advancement of knowledge in the academic community. 
           Proven track record of mentorship, leadership, and collaboration, 
-          seeking to inspire the next generation of scholars and educators."
+          seeking to inspire the next generation of scholars and educators.
           </p>
           <p className='py-2 text-white'>
           Experienced Assistant Professor specializing in Computer Science and Engineering, 
